@@ -1,2 +1,2 @@
-deviceid,latitude,longitude,arrive_time,leaving_time
-211,37.604518150000004,127.0456748,2019-11-29 03:44:21,2019-11-29 05:44:56
+deviceid,latitude,longitude,datetime,leaving_datetime
+211,37.604518150000004,127.0456748,2019-11-29 12:44:21,2019-11-29 14:44:56
