@@ -1,0 +1,3 @@
+deviceid,latitude,longitude,datetime,leaving_datetime,cluster,category
+108,37.56207765,127.0481306,2019-11-05 14:07:01,2019-11-05 20:18:02,0,none
+108,37.5707129,127.0341718,2019-11-05 13:03:35,2019-11-05 13:50:55,1,none
